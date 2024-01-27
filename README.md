@@ -8,7 +8,8 @@ Frontend developer
 - 💻  Self-directed Learner
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvRlrDrPNzjhHKGDnzkpRjLjnJgJNWShvxslHNTFNGcRxntlkMNjtlvRMlLSFQpvTklB) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-ahil-s/)
+<br /> [![Gmail Badge](https://img.shields.io/badge/-akilmohamed052-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akilmohamed052@gmail.com)](mailto:akilmohamed052@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-ahil-s/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
